@@ -3,5 +3,8 @@
 welcome to telusko kitchen
 
 
-
+POORI,
+DOSA
+IDLY
+CHATNY
 sambar,Curry
